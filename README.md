@@ -86,3 +86,14 @@ Future Improvements
 * Add customer segmentation analysis
 * Create forecasting models
 * Deploy dashboard online
+
+## Visualizations
+
+### Top Products by Revenue
+![Top Products](top_products_revenue.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue](monthly_revenue_trend.png)
+
+### Country Revenue Analysis
+![Country Revenue](country_revenue_analysis.png)
