@@ -1,0 +1,36 @@
+Retail Sales Data Analytics Project
+
+Project Objective:
+Analyze retail sales data using Python and SQL to discover sales trends, top-performing products, customer purchasing behavior, and country-wise revenue performance.
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- SQL
+- SQLite
+
+Project Tasks:
+1. Cleaned and processed retail sales dataset using Python.
+2. Created revenue column for business analysis.
+3. Analyzed top countries by revenue.
+4. Identified top-selling products.
+5. Found highest-priced products.
+6. Analyzed monthly revenue trends.
+7. Performed SQL aggregation queries.
+8. Created charts and visualizations.
+
+Key Insights:
+- United Kingdom generated the highest revenue.
+- Regency Cakestand 3 Tier was the top revenue product.
+- Monthly revenue showed seasonal trends.
+- Some countries had high average revenue values.
+- Certain products consistently sold high quantities.
+
+Skills Demonstrated:
+- Data Cleaning
+- Data Analysis
+- SQL Queries
+- Data Visualization
+- Business Insights
+- Exploratory Data Analysis
