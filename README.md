@@ -12,7 +12,6 @@ The analysis focuses on:
 * Customer purchasing behavior
 * Product performance analytics
 
-⸻
 
 Tools & Technologies Used
 
@@ -23,7 +22,6 @@ Tools & Technologies Used
 * SQLite
 * VS Code
 
-⸻
 
 Data Cleaning Process
 
@@ -34,7 +32,7 @@ The dataset was cleaned using Python and Pandas by:
 * Removing negative quantities
 * Creating a Revenue column
 
-⸻
+
 
 SQL Analysis Performed
 
@@ -47,7 +45,6 @@ The following SQL analyses were completed:
 * Monthly revenue trends
 * Average revenue by country
 
-⸻
 
 Key Business Insights
 
@@ -57,7 +54,6 @@ Key Business Insights
 * Certain countries had higher average order values despite lower sales volume.
 * Several products consistently generated high sales quantities.
 
-⸻
 
 Project Files
 
@@ -67,7 +63,7 @@ Project Files
 * screenshots/ → Charts and SQL output screenshots
 * insights.txt → Business insights summary
 
-⸻
+
 
 Skills Demonstrated
 
@@ -78,7 +74,7 @@ Skills Demonstrated
 * Business Analytics
 * Problem Solving
 
-⸻
+
 
 Future Improvements
 
